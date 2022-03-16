@@ -1,4 +1,4 @@
-![Alt-текст](av.PNG)
+![avatar](av.PNG)
 
 **Galina Dyrkheeva**
 
